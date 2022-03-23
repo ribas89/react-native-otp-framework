@@ -5,7 +5,13 @@ A framework to use your own input to create OTP one time passwords sms codes
 ## Installation
 
 ```sh
-npm install react-native-otp-framework
+yarn add react-native-otp-framework
+```
+
+if you gonna use the hook install the [rn-sms-retriever](https://www.npmjs.com/package/rn-sms-retriever)
+
+```sh
+yarn add rn-sms-retriever
 ```
 
 ## Example
