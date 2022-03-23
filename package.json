@@ -1,6 +1,6 @@
 {
   "name": "react-native-otp-framework",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A framework to use your own input to create OTP one time passwords sms codes",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
